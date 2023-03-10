@@ -1,5 +1,6 @@
 # Currently Working on:
 · Private projects
+# 
 · Dumb (very dumb) ideas
 
 # About me
