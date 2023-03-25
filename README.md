@@ -1,7 +1,10 @@
 # Currently Working on:
 · Private projects and dumb (very dumb) ideas
 
+· I try to make functional and useful programs (lol)
+
 # About me
+See my stats!
 
 <a>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xabia598&show_icons=true&theme=chartreuse-dark">
