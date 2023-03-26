@@ -3,6 +3,8 @@
 
 · I try to make functional and useful programs (lol)
 
+· Maybe I will try to make a useful website, the duck is a placeholder :)
+
 # About me
 See my stats!
 
