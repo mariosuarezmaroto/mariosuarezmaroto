@@ -4,11 +4,11 @@
 
 · Functional and useful programs :D
 
-· My own website! (the duck website is a placeholder)
+· My own website! _(Note that the web is on-dev and its unavailable)_
 
 <h1>Developer corner</h1>
 
-· Know more [about me]
+· Know more [about me] _(Web not functioning)_
 
 <img height="50" src="https://i.postimg.cc/TYT6TLPZ/xabiacatfix.png">
 
