@@ -4,12 +4,12 @@
 
 · Functional and useful programs :D
 
-· My own website! _(Note that the web is on-dev and its unavailable)_
+· My own website!
 
 <h1>Developer corner</h1>
 
-· Know more [about me] _(WIP)_ <img height="50" src="https://i.postimg.cc/TYT6TLPZ/xabiacatfix.png">
-
+· Know more [about me] _(WIP)_ 
+<img height="50" src="https://i.postimg.cc/TYT6TLPZ/xabiacatfix.png">
 
 
 [about me]: https://xabia598.github.io
