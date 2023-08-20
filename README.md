@@ -8,7 +8,7 @@
 
 <h1>Developer corner</h1>
 
-· Know more [about me] _(WIP)_ 
+· Know more [about me]
 
 <img height="50" src="https://i.postimg.cc/TYT6TLPZ/xabiacatfix.png">
 
@@ -18,7 +18,7 @@
 <h3>See my stats!</h3>
 
 <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xabia598&show_icons=true&theme=tokyonight">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xabia598&show_icons=true&theme=tokyonight">
     <!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xabia598&layout=compact&theme=chartreuse-dark">-->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xabia598&layout=compact&theme=tokyonight">
     </br>
