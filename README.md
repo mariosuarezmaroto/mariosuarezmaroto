@@ -2,21 +2,14 @@
 
 - Private projects and dumb ideas
 
-- Cyber Security (White Hat)
-
-- My own website!
-
+- Cyber Security (Red Hat)
 
 <h1>Dev Corner</h1>
 
-- Know more [about me]
-
-<img height="50" src="https://i.postimg.cc/TYT6TLPZ/xabiacatfix.png">
+- Know more [about me]!
 
 
 [about me]: https://xabia598.github.io
-
------
 
 <h3>See my stats!</h3>
 
