@@ -2,7 +2,7 @@
 
 - Private projects and dumb ideas
 
-- Cyber Security (Red Hat)
+- Cyber Security (Green Hat)
 
 <h1>Dev Corner</h1>
 
