@@ -1,17 +1,31 @@
-<h1>Currently Working on:</h1>
+<h1 align="center">Hey 👋! My name is Mario</h1>
 
-- [AndaluGo]
+<p align="center">I'm a young developer who has been coding for many years and now is adventuring into web and app development!</p>
+
+<br>
+
+<h3 align="center">I'm currently working on...</h3>
+
+<p align="center">- [AndaluGo], a web made for Andalusians who need to use public transport.</p>
+
+<p align="center">- Many more projects.</p>
 
 [AndaluGo]: https://www.andalugo.com
 
-- Many more projects
+<br>
+<br>
 
-<h1>See my stats!</h1>
+ <div align="center">
+   <h1>My skills</h1>
+    <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,js,docker,linux,bash,unity,html,androidstudio" />
+    </a>
+ </div>
 
-<a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xabia598&show_icons=true&theme=algolia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xabia598&layout=compact&theme=algolia">
-    </br>
-    
-</a>
+<br>
+<br>
 
+<div align="center">
+	<h1>Watch my stats!</h1>
+	    <img src="https://github-readme-stats.vercel.app/api?username=mariosuarezmaroto&show_icons=true&theme=algolia">
+</div>
