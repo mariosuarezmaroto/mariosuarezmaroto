@@ -6,11 +6,11 @@
 
 <h3 align="center">I'm currently working on...</h3>
 
-<p align="center">- [AndaluGo], a web made for Andalusians who need to use public transport.</p>
+<p align="center">- <a href="https://www.andalugo.com"> AndaluGo</a> a web made for Andalusians who need to use public transport.</p>
 
 <p align="center">- Many more projects.</p>
 
-[AndaluGo]: https://www.andalugo.com
+
 
 <br>
 <br>
